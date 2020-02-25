@@ -1,0 +1,6 @@
+Django
+djangorestframework
+findspark
+pyspark
+datetime
+redis
